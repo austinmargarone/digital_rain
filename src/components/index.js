@@ -1,19 +1,18 @@
 import Navbar from "./Navbar";
-import Features from "./Features";
-import Hero from "./Hero";
+import About from "./About";
 import DigitalRain from "./DigitalRain";
-import Testimonials from "./Testimonials";
-import Pricing from "./Pricing";
-import Footer from "./Footer";
-import Rain from "./Rain";
+import Calculator from "./Calculator";
+import Date from "./Date";
+import Time from "./Time";
+import Game from "./Game";
 
 export {
     Navbar,
-    Features,
-    Hero,
+    About,
     DigitalRain,
-    Testimonials,
-    Pricing,
-    Footer,
-    Rain
+    Calculator,
+    Date,
+    Time,
+    Game
+
 }
