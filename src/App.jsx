@@ -1,11 +1,18 @@
+import { Features, Hero, Navbar, Pricing, Testimonials } from "./components"
 
 
 function App() {
 
   return (
-    <>
-  <h2 className="text-red-500">hello world</h2>
-    </>
+    <div className="min-h-screen overflow-hidden">
+      <Navbar />
+      <Hero />
+      <Features />
+      <Testimonials />
+      <Pricing />
+      <footer />
+    </div>
+
   )
 }
 
