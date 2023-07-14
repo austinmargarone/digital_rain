@@ -5,6 +5,7 @@ import DigitalRain from "./DigitalRain";
 import Testimonials from "./Testimonials";
 import Pricing from "./Pricing";
 import Footer from "./Footer";
+import Rain from "./Rain";
 
 export {
     Navbar,
@@ -13,5 +14,6 @@ export {
     DigitalRain,
     Testimonials,
     Pricing,
-    Footer
+    Footer,
+    Rain
 }
